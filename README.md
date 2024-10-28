@@ -6,7 +6,7 @@ A Next.js template integrated with shadcn/ui, including all shadcn/ui components
 
 ## Features
 
-- **Next.js v14.2.16:** Provides server-side rendering, routing, and performance optimizations.
+- **Next.js v14.2.16(APP ROUTER):** Provides server-side rendering, routing, and performance optimizations.
 - **shadcn/ui:** All UI components from the shadcn/ui library are included.
 - **Tailwind CSS v3.4.1:** Utilizes utility-first CSS for rapid styling and customization.
 - **TypeScript v5:** Ensures type safety and enhanced developer experience.
