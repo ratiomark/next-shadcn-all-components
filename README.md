@@ -18,14 +18,10 @@ Install dependencies using your preferred package manager.
 
 ```bash
 npm install
-pnpm install
-yarn install
 ```
-
 ```bash
 pnpm install
 ```
-
 ```bash
 yarn install
 ```
