@@ -117,19 +117,19 @@ Start the development server, build the project, and start the production server
 
 ### npm
 
-- **Start Development Server:**
+**Start Development Server:**
 
   ```bash
   npm run dev
   ```
 
-- **Build Project:**
+**Build Project:**
 
   ```bash
   npm run build
   ```
 
-- **Start Production Server:**
+**Start Production Server:**
 
   ```bash
   npm run start
@@ -137,19 +137,19 @@ Start the development server, build the project, and start the production server
 
 ### pnpm
 
-- **Start Development Server:**
+**Start Development Server:**
 
   ```bash
   pnpm run dev
   ```
 
-- **Build Project:**
+**Build Project:**
 
   ```bash
   pnpm run build
   ```
 
-- **Start Production Server:**
+**Start Production Server:**
 
   ```bash
   pnpm run start
@@ -157,19 +157,19 @@ Start the development server, build the project, and start the production server
 
 ### yarn
 
-- **Start Development Server:**
+**Start Development Server:**
 
   ```bash
   yarn dev
   ```
 
-- **Build Project:**
+**Build Project:**
 
   ```bash
   yarn build
   ```
 
-- **Start Production Server:**
+**Start Production Server:**
 
   ```bash
   yarn start

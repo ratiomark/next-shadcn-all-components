@@ -9,7 +9,7 @@ export default {
 	"tailwindConfig": "./tailwind.config.ts",
 	"arrowParens": "avoid",
 	"bracketSpacing": true,
-	"jsxBracketSameLine": false,
+	"bracketSameLine": false,
 	"printWidth": 120,
 	"maxAttributesPerLine": 3,
 	"semi": false,
