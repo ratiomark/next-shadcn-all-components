@@ -16,19 +16,13 @@ A Next.js template integrated with shadcn/ui, including all shadcn/ui components
 
 Install dependencies using your preferred package manager.
 
-### npm
-
 ```bash
 npm install
 ```
 
-### pnpm
-
 ```bash
 pnpm install
 ```
-
-### yarn
 
 ```bash
 yarn install
@@ -128,7 +122,7 @@ _root
 - **Base URL:** `.`
 - **Path Aliases:**
   - `@/*` → `./src/*`
-  - `#/*` → `./src/shared/components/ui/*` *(Remove the `#` alias if not needed)*
+  - `#/*` → `./src/shared/components/ui/*` _(Remove the `#` alias if not needed)_
 
 #### Example Usage of Aliases
 
@@ -151,7 +145,7 @@ All UI components from the shadcn/ui library are included and available for use 
 Path aliases are configured in `tsconfig.json` to simplify imports:
 
 - `@/*` → `./src/*`
-- `#/*` → `./src/shared/components/ui/*` *(Remove the `#` alias if not needed)*
+- `#/*` → `./src/shared/components/ui/*` _(Remove the `#` alias if not needed)_
 
 ### Example Imports
 
@@ -184,10 +178,8 @@ Key dependencies and their versions:
 - **shadcn/ui**
 - **Tailwind CSS v3.4.1**
 - **TypeScript v5**
-- *(Refer to `package.json` for the full list of dependencies)*
+- _(Refer to `package.json` for the full list of dependencies)_
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-
